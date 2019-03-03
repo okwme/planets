@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "register-service-worker": "^1.5.2",
-    "sigil-js": "https://github.com/urbit/sigil-js",
+    "sigil-js": "https://github.com/okwme/sigil-js",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"

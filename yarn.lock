@@ -7314,9 +7314,9 @@ shell-quote@^1.6.1:
     array-reduce "~0.0.0"
     jsonify "~0.0.0"
 
-"sigil-js@https://github.com/urbit/sigil-js":
+"sigil-js@https://github.com/okwme/sigil-js":
   version "1.2.5"
-  resolved "https://github.com/urbit/sigil-js#1864796bb3f482e597fd85acfd324795e42b2465"
+  resolved "https://github.com/okwme/sigil-js#95cc635f2242999ddafbcb35502a528f9150f6b3"
   dependencies:
     lodash "^4.17.10"
     transformation-matrix "^1.14.0"
